@@ -1,6 +1,6 @@
 <?php
 
 	echo "Hello world";
-	echo "teste2";
+	echo "hello world";
 
 ?>
